@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\Proyecto1\MCD\bin\Debug\MCD.exe.config
+C:\Users\usuario\source\repos\Proyecto1\MCD\bin\Debug\MCD.exe
+C:\Users\usuario\source\repos\Proyecto1\MCD\bin\Debug\MCD.pdb
+C:\Users\usuario\source\repos\Proyecto1\MCD\obj\Debug\MCD.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Proyecto1\MCD\obj\Debug\MCD.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Proyecto1\MCD\obj\Debug\MCD.exe
+C:\Users\usuario\source\repos\Proyecto1\MCD\obj\Debug\MCD.pdb
